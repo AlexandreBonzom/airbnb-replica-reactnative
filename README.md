@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 First clone the repo
 
 ```
-git clone https://github.com/AlexandreBonzom/leboncoin-exercice.git 
+git clone https://github.com/AlexandreBonzom/airbnb-replica-reactnative.git 
 ```
 
 And then install all packages on your machine
